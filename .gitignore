@@ -1,0 +1,5 @@
+node_modules
+web/src/pages/example
+.routify
+.history
+dist
